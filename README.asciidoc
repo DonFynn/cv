@@ -18,3 +18,11 @@ curriculum vitae
 * Andreae Gymnasium Herrenberg
 ** 201x - present
 
+// change order 
+// include git projects
+// include links
+// inclde photo with qr
+// include hobbies
+// include work expirience
+// include MUN
+// make a website 
