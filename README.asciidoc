@@ -1,4 +1,5 @@
-= cv Fynn Conor Donnellan
+= CV Fynn Conor Donnellan
+
 curriculum vitae 
 
 == Date of Birth
