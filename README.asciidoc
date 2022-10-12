@@ -1,0 +1,20 @@
+= cv Fynn Conor Donnellan
+curriculum vitae 
+
+== Date of Birth
+* 01.12.2006 in Filderstadt
+
+== Languauges 
+* German - fluent
+* English - fluent
+* Latin - basic 
+
+== School
+=== Elementary School
+* Ludwig Uhland Schule Gärtringen
+** 201x - 201x
+
+=== Secondary School
+* Andreae Gymnasium Herrenberg
+** 201x - present
+
