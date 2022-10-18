@@ -19,11 +19,25 @@ curriculum vitae
 * Andreae Gymnasium Herrenberg
 ** 201x - present
 
+== Hobbies and Interests
+* Tennis
+** Member of the TCG sonce 201x
+
+* Basketball
+
+* Code
+** Several Projects viewable at https://github.com/DonFynn
+
+* MUN 
+** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
+
+== Work Expirience
+* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+
+
+
 // change order 
 // include git projects
 // include links
 // inclde photo with qr
-// include hobbies
-// include work expirience
-// include MUN
 // make a website 
