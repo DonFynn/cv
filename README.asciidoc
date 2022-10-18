@@ -5,11 +5,6 @@ curriculum vitae
 == Date of Birth
 * 01.12.2006 in Filderstadt
 
-== Languauges 
-* German - fluent
-* English - fluent
-* Latin - basic 
-
 == School
 === Elementary School
 * Ludwig Uhland Schule Gärtringen
@@ -18,6 +13,9 @@ curriculum vitae
 === Secondary School
 * Andreae Gymnasium Herrenberg
 ** 201x - present
+
+== Work Expirience
+* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
 
 == Hobbies and Interests
 * Tennis
@@ -31,12 +29,14 @@ curriculum vitae
 * MUN 
 ** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
 
-== Work Expirience
-* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+== Languauges 
+* German - fluent
+* English - fluent
+* Latin - basic 
 
 
 
-// change order 
+
 // include git projects
 // include links
 // inclde photo with qr
