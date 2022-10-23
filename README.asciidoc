@@ -34,6 +34,10 @@ curriculum vitae
 * English - fluent
 * Latin - basic 
 
+== Git Projects
+* https://github.com/DonFynn/evcc
+** A project to control the charging stations for electrical cars at my home by controlling the solar panels and their output
+
 
 
 
