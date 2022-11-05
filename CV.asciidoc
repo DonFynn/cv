@@ -7,7 +7,7 @@
 :classification: {org} - Un-classified
 :GH-org: DonFynn
 :GH-repo: cv
-:repo-file: README
+:repo-file: CV
 //
 // URLs
 :GH-url: https://github.com
@@ -49,7 +49,6 @@ ifdef::env-github[]
 endif::env-github[]
 ====
 
-
 == Date of Birth
 * 01.12.2006 in Böblingen
 
@@ -57,18 +56,20 @@ endif::env-github[]
 
 === Elementary School
 
-==== Sutton Psrk School - Dublin
-* half a year in 201x
+==== Sutton Park School - Dublin
+* half a year in 2013
 
 ==== Ludwig Uhland Schule - Gärtringen
-* 201x - 201x
+* 2013 - 2017
 
 === Secondary School
-* Andreae Gymnasium Herrenberg
-** 201x - present
+
+==== Andreae Gymnasium Herrenberg
+* 2017 - present
 
 == Work Experience
-* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+* 2022 - Sozialpraktikum
+** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
 
 == Extracuricular activities
 * Model United Nations 
