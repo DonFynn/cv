@@ -1,0 +1,47 @@
+= CV Fynn Conor Donnellan
+
+curriculum vitae 
+
+== Date of Birth
+* 01.12.2006 in Filderstadt
+
+== School
+=== Elementary School
+* Ludwig Uhland Schule Gärtringen
+** 201x - 201x
+
+=== Secondary School
+* Andreae Gymnasium Herrenberg
+** 201x - present
+
+== Work Expirience
+* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+
+== Hobbies and Interests
+* Tennis
+** Member of the TCG sonce 201x
+
+* Basketball
+
+* Code
+** Several Projects viewable at https://github.com/DonFynn
+
+* MUN 
+** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
+
+== Languauges 
+* German - fluent
+* English - fluent
+* Latin - basic 
+
+== Git Projects
+* https://github.com/DonFynn/evcc
+** A project to control the charging stations for electrical cars at my home by controlling the solar panels and their output
+
+
+
+
+// include git projects
+// include links
+// inclde photo with qr
+// make a website 

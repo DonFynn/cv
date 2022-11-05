@@ -1,0 +1,32 @@
+//
+//DOC Formatiing and style
+:title-page:
+:toc: right
+:sectnums:
+:sectnumlevels: 5
+:toclevels: 5
+:data-uri:
+:allow-uri-read: true
+:doctype: book
+//set bookflag in main document if adding chapters etc that will be built solo AND integrated
+:book-flag: true
+:icons: font
+:listing-caption: Listing
+:source-highlighter: rouge
+//
+//PATHS
+:localdir: ./
+:imagesdir: {localdir}
+:libdir: /build/lib
+//
+//HTML options
+:!reproducible:
+:favicon: {libdir}/favicon.ico
+//
+//PDF options
+:pdf-page-size: A4
+:pdf-theme: {org}-theme.yml
+:pdf-themesdir: {libdir}/themes
+:pdf-fontsdir: {libdir}/fonts
+:title-logo-image: image:{pdf-themesdir}/VSR-logo-space.svg[pdfwidth=2.5in,align=right]
+

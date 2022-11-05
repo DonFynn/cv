@@ -1,47 +1,124 @@
-= CV Fynn Conor Donnellan
+= Asciidoc Example Document
+//
+//General DOC INFO
+:year: 2022
+:org: VSR
+:copyright: (C){year} {org} All Rights Reserved
+:classification: {org} - Un-classified
+:GH-org: DonFynn
+:GH-repo: cv
+:repo-file: README
+//
+// URLs
+:GH-url: https://github.com
+:GH-url-pages: https://{GH-org}.github.io
+:url-org: {GH-url}/{GH-org}
+:url-repo: {url-org}/{GH-repo}
+:url-repo-pages: {GH-url-pages}/{GH-repo}/{repo-file}.html
+:url-repo-pages-pdf: {GH-url-pages}/{GH-repo}/{repo-file}.pdf
+//
+//GITHUB settings
+ifdef::env-github[]
+:toc:
+:toc-placement!:
+:status:
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+include::includes/asciidoc-format-header.adoc[]
 
-curriculum vitae 
+ifdef::env-github[toc::[]]
 
-== Date of Birth
-* 01.12.2006 in Filderstadt
+== Document information
 
-== School
-=== Elementary School
-* Ludwig Uhland Schule Gärtringen
-** 201x - 201x
+====
+.Links to Document
+ifndef::env-github[]
+:hardbreaks-option:
+icon:compass[2x,link="{url-repo-pages}"] Document online
+icon:github[2x,link="{url-repo}"] Document Source
+icon:file-pdf-o[2x,link="{url-repo-pages-pdf}"] Document PDF
 
-=== Secondary School
-* Andreae Gymnasium Herrenberg
-** 201x - present
+:!hardbreaks-option:
+endif::env-github[]
+ifdef::env-github[]
+* link:{url-repo-pages}[Document online ^]
+* link:{url-repo}[Document Source ^]
+* link:{url-repo-pages-pdf}[Document PDF ^]
+endif::env-github[]
+====
 
-== Work Expirience
-* Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+.Document information
+[format=csv, stripes=even, separator=",",options=header]
+|===
+Author,Status,Date,Comment
+Fynn Donnellan,Initial Draft,Nov/2022,Example Asciidoc document
+|===
 
-== Hobbies and Interests
-* Tennis
-** Member of the TCG sonce 201x
+== Introduction
+Asciidoctor container for use in Github actions and in headless mode.
+This repository builds a container that can create output from asciidoc documents.
 
-* Basketball
+== Github Actions
 
-* Code
-** Several Projects viewable at https://github.com/DonFynn
+== Example asciidoc
+This section containe some example asciidoc material.
 
-* MUN 
-** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
+=== Admonitions
 
-== Languauges 
-* German - fluent
-* English - fluent
-* Latin - basic 
+[WARNING]
+====
+This is a warning
+====
 
-== Git Projects
-* https://github.com/DonFynn/evcc
-** A project to control the charging stations for electrical cars at my home by controlling the solar panels and their output
+[NOTE]
+====
+This is a note
+====
 
+[CAUTION]
+====
+This should Caution you
+====
 
+[TIP]
+====
+Something to think about or some wise words
+====
 
+=== Lists
 
-// include git projects
-// include links
-// inclde photo with qr
-// make a website 
+.A bulleted list
+* item 1
+* item 45
+** sub item
+
+.A checkbox list
+* [ ] item 1
+* [x] item 2
+* [ ] item 3
+** [x] sub item
+
+.A numbered list
+. item 1
+. item 2
+.. sub item
+... sub sub item
+
+.Another list (no sub items possible)
+- item 1
+- item 20
+
+=== Figures
+
+.An image caption
+image::./images/image.png[]
+
+[appendix]
+== example glossary
+test:: just testing
+ABC:: DEF
+ACME:: another test
