@@ -1,4 +1,4 @@
-= CV Fynn Conor Donnellan
+= Curriculum Vitae - Fynn Conor Donnellan
 //
 //General DOC INFO
 :year: 2022
@@ -32,49 +32,63 @@ include::includes/asciidoc-format-header.adoc[]
 
 ifdef::env-github[toc::[]]
 
+====
+.Links to Document
+ifndef::env-github[]
+:hardbreaks-option:
+icon:compass[2x,link="{url-repo-pages}"] Document online
+icon:github[2x,link="{url-repo}"] Document Source
+icon:file-pdf-o[2x,link="{url-repo-pages-pdf}"] Document PDF
 
-curriculum vitae 
+:!hardbreaks-option:
+endif::env-github[]
+ifdef::env-github[]
+* link:{url-repo-pages}[Document online ^]
+* link:{url-repo}[Document Source ^]
+* link:{url-repo-pages-pdf}[Document PDF ^]
+endif::env-github[]
+====
+
 
 == Date of Birth
-* 01.12.2006 in Filderstadt
+* 01.12.2006 in Böblingen
 
-== School
+== Education
+
 === Elementary School
-* Ludwig Uhland Schule Gärtringen
-** 201x - 201x
+
+==== Sutton Psrk School - Dublin
+* half a year in 201x
+
+==== Ludwig Uhland Schule - Gärtringen
+* 201x - 201x
 
 === Secondary School
 * Andreae Gymnasium Herrenberg
 ** 201x - present
 
-== Work Expirience
+== Work Experience
 * Sozialpraktikum at Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+
+== Extracuricular activities
+* Model United Nations 
+** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
 
 == Hobbies and Interests
 * Tennis
-** Member of the TCG sonce 201x
+** Member of the TCG since 201x
 
 * Basketball
 
-* Code
-** Several Projects viewable at https://github.com/DonFynn
+* Information Technology (IT)
+** see below (<<GIT>>)
 
-* MUN 
-** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
-
-== Languauges 
+== Languages 
 * German - fluent
 * English - fluent
 * Latin - basic 
 
+[#GIT]
 == Git Projects
 * https://github.com/DonFynn/evcc
 ** A project to control the charging stations for electrical cars at my home by controlling the solar panels and their output
-
-
-
-
-// include git projects
-// include links
-// inclde photo with qr
-// make a website 
