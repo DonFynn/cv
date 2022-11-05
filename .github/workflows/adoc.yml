@@ -6,9 +6,17 @@ name: asciidoc pdf and html
 
 on:
   push:
-    branches: [ backup ]
+    paths:
+      - 'images/**'
+      - '**.adoc'
+      - '**.asciidoc'
+      - '.github/workflows/adoc.yml'
+    branches: [ "main" ]
+    # Publish semver tags as releases.
+    tags: [ 'v*.*.*' ]
   pull_request:
-    branches: [ backup ]
+    branches: [ "main" ]
+
 
 jobs:
   build:
