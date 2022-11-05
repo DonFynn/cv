@@ -29,7 +29,7 @@ jobs:
       - name: Make the PDFs and HTMLs
         id: asciidoc-2-html-and-pdf
         run: |
-          docker pull ghcr.io/donnels/asciidoc:main
+          docker pull ghcr.io/donfynn/asciidoc:main
           docker run -v "$PWD":/documents/ --name asciidoc-to-pdf ghcr.io/donnels/asciidoc:main asciidoctor-pdf -D /documents/docs *.asciidoc
           docker run -v "$PWD":/documents/ --name asciidoc-to-html ghcr.io/donnels/asciidoc:main asciidoctor -D /documents/docs *.asciidoc
 
