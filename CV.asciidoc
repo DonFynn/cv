@@ -1,4 +1,37 @@
 = CV Fynn Conor Donnellan
+//
+//General DOC INFO
+:year: 2022
+:org: VSR
+:copyright: (C){year} {org} All Rights Reserved
+:classification: {org} - Un-classified
+:GH-org: DonFynn
+:GH-repo: cv
+:repo-file: README
+//
+// URLs
+:GH-url: https://github.com
+:GH-url-pages: https://{GH-org}.github.io
+:url-org: {GH-url}/{GH-org}
+:url-repo: {url-org}/{GH-repo}
+:url-repo-pages: {GH-url-pages}/{GH-repo}/{repo-file}.html
+:url-repo-pages-pdf: {GH-url-pages}/{GH-repo}/{repo-file}.pdf
+//
+//GITHUB settings
+ifdef::env-github[]
+:toc:
+:toc-placement!:
+:status:
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+include::includes/asciidoc-format-header.adoc[]
+
+ifdef::env-github[toc::[]]
+
 
 curriculum vitae 
 
