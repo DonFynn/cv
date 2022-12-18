@@ -49,7 +49,7 @@ ifdef::env-github[]
 endif::env-github[]
 ====
 
-image::./images/qr.png
+image::./images/qr.png[]
     
 == Date of Birth
 * 01.12.2006 in Böblingen
