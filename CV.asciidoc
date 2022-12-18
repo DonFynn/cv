@@ -1,7 +1,7 @@
 = Curriculum Vitae - Fynn Conor Donnellan
 //
 //General DOC INFO
-:year: 2022
+:year: 2023
 :org: VSR
 :copyright: (C){year} {org} All Rights Reserved
 :classification: {org} - Un-classified
@@ -49,6 +49,8 @@ ifdef::env-github[]
 endif::env-github[]
 ====
 
+image::./images/qr.png
+    
 == Date of Birth
 * 01.12.2006 in Böblingen
 
