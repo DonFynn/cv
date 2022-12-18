@@ -62,11 +62,13 @@ endif::[]
 
 * 01.12.2006 in Böblingen
 
-ifdef::lang-de[]    
+ifdef::lang-de[] 
+== Bildung   
 endif::[]
-ifdef::lang-en[]    
+ifdef::lang-en[]  
+== Education  
 endif::[]
-== Education
+
 
 ifdef::lang-de[]    
 === Grundschule
