@@ -63,14 +63,16 @@ endif::[]
 * 01.12.2006 in Böblingen
 
 ifdef::lang-de[] 
-== Bildung   
+ 
 endif::[]
 ifdef::lang-en[]  
-== Education  
+ 
 endif::[]
 
 
-ifdef::lang-de[]    
+ifdef::lang-de[] 
+== Bildung  
+   
 === Grundschule
 
 ==== Sutton Park Schule - Dublin
@@ -79,7 +81,9 @@ ifdef::lang-de[]
 ==== Ludwig Uhland Schule - Gärtringen
 * 2013-2017
 endif::[]
-ifdef::lang-en[]   
+ifdef::lang-en[] 
+== Education 
+
 === Elementary School
 
 ==== Sutton Park School - Dublin
