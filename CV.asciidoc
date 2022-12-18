@@ -1,6 +1,7 @@
 = Curriculum Vitae - Fynn Conor Donnellan
 //
 //General DOC INFO
+:lang-de:
 :year: 2023
 :org: VSR
 :copyright: (C){year} {org} All Rights Reserved
@@ -36,26 +37,47 @@ ifdef::env-github[toc::[]]
 .Links to Document
 ifndef::env-github[]
 :hardbreaks-option:
-icon:compass[2x,link="{url-repo-pages}"] Document online
-icon:github[2x,link="{url-repo}"] Document Source
-icon:file-pdf-o[2x,link="{url-repo-pages-pdf}"] Document PDF
+icon:compass[2x,link="{url-repo-pages}"] Online Version
+icon:github[2x,link="{url-repo}"] Github Version
+icon:file-pdf-o[2x,link="{url-repo-pages-pdf}"] PDF Version
 
 :!hardbreaks-option:
 endif::env-github[]
 ifdef::env-github[]
-* link:{url-repo-pages}[Document online ^]
-* link:{url-repo}[Document Source ^]
-* link:{url-repo-pages-pdf}[Document PDF ^]
+* link:{url-repo-pages}[Online Version ^]
+* link:{url-repo}[Github Version ^]
+* link:{url-repo-pages-pdf}[PDF Version ^]
 endif::env-github[]
 ====
 
 image::./images/qr.png[]
-    
+
+ifdef::lang-de[]    
+== Geburtsdatum
+endif::[]
+
+ifdef::lang-en[]    
 == Date of Birth
+endif::[]
+
 * 01.12.2006 in Böblingen
 
+ifdef::lang-de[]    
+endif::[]
+ifdef::lang-en[]    
+endif::[]
 == Education
 
+ifdef::lang-de[]    
+=== Grundschule
+
+==== Sutton Park Schule - Dublin
+* ein halbes Jahr in 2013
+
+==== Ludwig Uhland Schule - Gärtringen
+*2013-2017
+endif::[]
+ifdef::lang-en[]   
 === Elementary School
 
 ==== Sutton Park School - Dublin
@@ -63,35 +85,87 @@ image::./images/qr.png[]
 
 ==== Ludwig Uhland Schule - Gärtringen
 * 2013 - 2017
+endif::[]
 
+ifdef::lang-de[]    
+=== Weiterführende Schule
+
+==== Andreae Gymansium Herrenberg
+* 2017 - heute 
+endif::[]
+ifdef::lang-en[]  
 === Secondary School
 
 ==== Andreae Gymnasium Herrenberg
 * 2017 - present
+endif::[]
 
+ifdef::lang-de[]    
+== Arbeitsehrfahrung
+* 2022 - Sozialpraktikum
+** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 Woche)
+endif::[]
+ifdef::lang-en[] 
 == Work Experience
 * 2022 - Sozialpraktikum
 ** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+endif::[]
 
-== Extracuricular activities
+ifdef::lang-de[]    
+== Außerschulische Aktivitäten 
+* Modell Vereinigte Nationen (MUN)
+** Zwei mal an MUNOG teilgenommen (DISEC;SC), dabei eine ehrenwerte Belobigung gewonnen 
+endif::[]
+ifdef::lang-en[]    
+== Extracuricular activities    
 * Model United Nations 
 ** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
+endif::[]
 
+ifdef::lang-de[]    
+== Hobbies und Intressen
+*Tennis
+** Mitglied im TCG seit 2018
+
+* Basketball
+
+* Informations-Technologie (IT)
+** siehe unten (<<GIT>>)
+endif::[]
+ifdef::lang-en[]    
 == Hobbies and Interests
 * Tennis
-** Member of the TCG since 201x
+** Member of the TCG since 2018
 
 * Basketball
 
 * Information Technology (IT)
 ** see below (<<GIT>>)
+endif::[]
 
+ifdef::lang-de[] 
+== Sprachen
+* Deutsch - fließend
+* Englisch - fließend
+* Latein - Grundwissen   
+endif::[]
+ifdef::lang-en[]
 == Languages 
 * German - fluent
 * English - fluent
-* Latin - basic 
+* Latin - basic     
+endif::[]
+
 
 [#GIT]
+ifdef::lang-de[]
+== Git Projekte
+* https://github.com/DonFynn/evcc
+** Ein Projekt zur Kontrolle der Ladestationen für die E-Autos bei mir zuhause mithilfe der Solar-Panels und deren Output
+endif::[]
+
+ifdef::lang-en[]
 == Git Projects
 * https://github.com/DonFynn/evcc
 ** A project to control the charging stations for electrical cars at my home by controlling the solar panels and their output
+endif::[]
