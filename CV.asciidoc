@@ -72,7 +72,7 @@ endif::[]
 
 ifdef::lang-de[] 
 == Bildung  
-   
+
 === Grundschule
 
 ==== Sutton Park Schule - Dublin
@@ -107,7 +107,7 @@ ifdef::lang-en[]
 endif::[]
 
 ifdef::lang-de[]    
-== Arbeitsehrfahrung
+== Arbeitserfahrungen
 * 2022 - Sozialpraktikum
 ** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 Woche)
 endif::[]
@@ -129,7 +129,7 @@ ifdef::lang-en[]
 endif::[]
 
 ifdef::lang-de[]    
-== Hobbies und Intressen
+== Hobbies und Interessen
 
 * Tennis
 ** Mitglied im TCG seit 2018
