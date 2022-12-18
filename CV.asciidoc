@@ -126,7 +126,8 @@ endif::[]
 
 ifdef::lang-de[]    
 == Hobbies und Intressen
-*Tennis
+
+* Tennis
 ** Mitglied im TCG seit 2018
 
 * Basketball
