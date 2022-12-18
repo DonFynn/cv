@@ -115,7 +115,7 @@ endif::[]
 
 ifdef::lang-de[]    
 == Außerschulische Aktivitäten 
-* Modell Vereinigte Nationen (MUN)
+* Modell Vereinte Nationen (MUN)
 ** Zwei mal an MUNOG teilgenommen (DISEC;SC), dabei eine ehrenwerte Belobigung gewonnen 
 endif::[]
 ifdef::lang-en[]    
