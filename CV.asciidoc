@@ -77,7 +77,7 @@ ifdef::lang-de[]
 * ein halbes Jahr in 2013
 
 ==== Ludwig Uhland Schule - Gärtringen
-*2013-2017
+* 2013-2017
 endif::[]
 ifdef::lang-en[]   
 === Elementary School
