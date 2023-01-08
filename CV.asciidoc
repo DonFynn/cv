@@ -76,7 +76,7 @@ ifdef::lang-de[]
 === Grundschule
 
 ==== Sutton Park Schule - Dublin
-* ein halbes Jahr in 2013
+* 4 Monate in 2013
 
 ==== Ludwig Uhland Schule - Gärtringen
 * 2013-2017
@@ -87,7 +87,7 @@ ifdef::lang-en[]
 === Elementary School
 
 ==== Sutton Park School - Dublin
-* half a year in 2013
+* 4 months in 2013
 
 ==== Ludwig Uhland Schule - Gärtringen
 * 2013 - 2017
