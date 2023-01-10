@@ -109,23 +109,27 @@ endif::[]
 ifdef::lang-de[]    
 == Arbeitserfahrungen
 * 2022 - Sozialpraktikum
-** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 Woche)
+** Kindergarten Mozartstraße 04.07.2022 - 08.07.2022 (1 Woche)
 endif::[]
 ifdef::lang-en[] 
 == Work Experience
 * 2022 - Sozialpraktikum
-** Kindergarten Mozartstraße xx.xx.2022 - xx.xx.2022 (1 week)
+** Kindergarten Mozartstraße 04.07.2022 - 08.07.2022 (1 week)
 endif::[]
 
 ifdef::lang-de[]    
 == Außerschulische Aktivitäten 
 * Modell Vereinte Nationen (MUN)
 ** Zwei mal an MUNOG teilgenommen (DISEC;SC), dabei eine ehrenwerte Belobigung erhalten
+* Sani-AG
+** Gültiger Erste-Hilfe-Schein und 
 endif::[]
 ifdef::lang-en[]    
 == Extracuricular activities    
 * Model United Nations 
 ** Taken part at MUNOG twice (DISEC;SC), winning one honourable mention 
+* First Aid Working Group
+** First Aid certificate and regular practice at our schools first aid team
 endif::[]
 
 ifdef::lang-de[]    
