@@ -122,7 +122,7 @@ ifdef::lang-de[]
 * Modell Vereinte Nationen (MUN)
 ** Zwei mal an MUNOG teilgenommen (DISEC;SC), dabei eine ehrenwerte Belobigung erhalten
 * Sani-AG
-** Gültiger Erste-Hilfe-Schein und 
+** Gültiger Erste-Hilfe-Schein und regelmäßige Übung bei den Erste-Hilfe-Leistern meiner Schule
 endif::[]
 ifdef::lang-en[]    
 == Extracuricular activities    
